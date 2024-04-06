@@ -10,7 +10,7 @@ const nextConfig = {
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: 'rods787.github.io/kasm-repo/1.0/',
+  basePath: '/kasm-repo/1.0/',
   trailingSlash: true,
   images: {
     unoptimized: true,
